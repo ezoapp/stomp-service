@@ -1,0 +1,8 @@
+{
+  "name": "stomp-service",
+  "repository": "https://github.com/mingzeke/stomp-service.git",
+  "version": "0.0.1",
+  "dependencies": {
+    "stompjs": "jmesnil/stomp-websocket#2.3.4"
+  }
+}
